@@ -45,6 +45,7 @@
   "build": {
     "appId": "com.datechecker.app",
     "productName": "Provjera raspona datuma",
+    "artifactName": "date.checker-${version}-${os}-${arch}.${ext}",
     "files": [
       "dist/**/*",
       "electron/**/*",
