@@ -1,0 +1,21 @@
+[
+    {"id": 1, "start": "2011-08-01", "end": "2011-10-31", "hours": 8, "poslodavac": "1", "color": "#ea580c"},
+    {"id": 2, "start": "2013-08-30", "end": "2013-09-25", "hours": 4, "poslodavac": "2", "color": "#be185d"},
+    {"id": 3, "start": "2014-07-07", "end": "2014-07-30", "hours": 4, "poslodavac": "3", "color": "#1e40af"},
+    {"id": 4, "start": "2014-08-01", "end": "2014-08-31", "hours": 4, "poslodavac": "4", "color": "#65a30d"},
+    {"id": 5, "start": "2016-01-12", "end": "2016-05-20", "hours": 8, "poslodavac": "5", "color": "#ca8a04"},
+    {"id": 6, "start": "2016-06-23", "end": "2016-09-16", "hours": 8, "poslodavac": "6", "color": "#d97706"},
+    {"id": 7, "start": "2016-12-21", "end": "2017-04-06", "hours": 8, "poslodavac": "7", "color": "#0369a1"},
+    {"id": 8, "start": "2022-06-06", "end": "2022-10-15", "hours": 8, "poslodavac": "8", "color": "#0891b2"},
+    {"id": 9, "start": "2023-04-02", "end": "2023-11-30", "hours": 8, "poslodavac": "9", "color": "#dc2626"},
+    {"id": 10, "start": "2023-12-04", "end": "2023-12-06", "hours": 2, "poslodavac": "10", "color": "#2563eb"},
+    {"id": 11, "start": "2024-01-27", "end": "2024-06-22", "hours": 8, "poslodavac": "11", "color": "#4f46e5"},
+    {"id": 12, "start": "2024-08-01", "end": "2024-08-31", "hours": 4, "poslodavac": "12", "color": "#db2777"},
+    {"id": 13, "start": "2024-12-29", "end": "2025-01-04", "hours": 2, "poslodavac": "13", "color": "#0d9488"},
+    {"id": 14, "start": "2025-05-27", "end": "2025-07-23", "hours": 8, "poslodavac": "14", "color": "#7c3aed"},
+    {"id": 15, "start": "2025-08-15", "end": "2025-09-23", "hours": 2, "poslodavac": "15", "color": "#059669"},
+    {"id": 16, "start": "2025-09-22", "end": "2025-10-21", "hours": 2, "poslodavac": "16", "color": "#2563eb"},
+    {"id": 17, "start": "2025-10-22", "end": "2025-10-27", "hours": 2, "poslodavac": "17", "color": "#2563eb"},
+    {"id": 18, "start": "2025-11-06", "end": "2025-11-20", "hours": 2, "poslodavac": "18", "color": "#2563eb"},
+    {"id": 19, "start": "2025-12-03", "end": "2025-12-05", "hours": 8, "poslodavac": "19", "color": "#2563eb"}
+]
